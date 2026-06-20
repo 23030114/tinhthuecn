@@ -1,1 +1,1 @@
-Steamlit
+streamlit==1.46.1
